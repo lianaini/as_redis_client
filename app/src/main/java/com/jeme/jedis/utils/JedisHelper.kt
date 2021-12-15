@@ -1,7 +1,5 @@
 package com.jeme.jedis.utils
 
-import android.os.Handler
-import android.os.Looper
 import android.util.Log
 import com.jcraft.jsch.JSch
 import com.jcraft.jsch.JSchException
